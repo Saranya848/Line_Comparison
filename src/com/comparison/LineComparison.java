@@ -32,7 +32,7 @@ public class LineComparison {
          if(output1.equals(output2))
              System.out.println("Both lines are equal");
 
-     else
+         else
              System.out.println("Both lines are not equal");
 
          c.close();
